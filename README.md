@@ -1,3 +1,2 @@
-# elms
-
-Do một số lý do nên việc upload file bị lỗi, vui lòng tải full source code  file leave.zip
+# elm
+Do some reason, error upload file, please download full source code file leave.zip
